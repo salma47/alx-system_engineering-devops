@@ -1,2 +1,3 @@
 #!/bin/bash
-echo 'Hedllo, World' \n
+echo 'Hedllo, World'
+
